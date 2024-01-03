@@ -1,0 +1,12 @@
+insert into game_info (game_id, game_name) values (1,"메이플스토리");
+insert into game_info (game_id, game_name) values (2,"메이플스토리M");
+insert into game_info (game_id, game_name) values (3,"메이플핸디월드");
+insert into game_info (game_id, game_name) values (4,"포켓메이플스토리");
+insert into game_info (game_id, game_name) values (5,"메이플블리츠X");
+insert into game_info (game_id, game_name) values (6,"메이플스토리2");
+insert into game_info (game_id, game_name) values (7,"로스트아크");
+insert into game_info (game_id, game_name) values (8,"던전앤파이터");
+insert into game_info (game_id, game_name) values (9,"패스오브엑자일");
+insert into game_info (game_id, game_name) values (10,"나이트크로우");
+insert into game_info (game_id, game_name) values (11,"마비노기");
+insert into game_info (game_id, game_name) values (12,"서든어택");

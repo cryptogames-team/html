@@ -1,0 +1,27 @@
+{
+    "result": {
+        "rows": [
+            {
+                "template_id": 2,
+                "schema_name": "bodies",
+                "transferable": 1,
+                "burnable": 1,
+                "max_supply": 100,
+                "issued_supply": 0,
+                "immutable_serialized_data": "040679656c6c6f77054368747470733a2f2f697066732e696f2f697066732f516d646d566d514a695a3864656e4377737241653741564d6f3572324a3175384664736a7a745475314d6950576606023130"
+            },
+            {
+                "template_id": 3,
+                "schema_name": "bodies",
+                "transferable": 1,
+                "burnable": 1,
+                "max_supply": 100,
+                "issued_supply": 0,
+                "immutable_serialized_data": "040574657374310506696d6167653106023130"
+            }
+        ],
+        "more": false,
+        "next_key": "",
+        "next_key_bytes": ""
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "result": {
+        "rows": [
+            {
+                "schema_name": "bodies",
+                "format": [
+                    {
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "name": "img",
+                        "type": "string"
+                    },
+                    {
+                        "name": "rarity",
+                        "type": "string"
+                    }
+                ]
+            },
+            {
+                "schema_name": "eyes",
+                "format": [
+                    {
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "name": "img",
+                        "type": "string"
+                    },
+                    {
+                        "name": "rarity",
+                        "type": "string"
+                    }
+                ]
+            }
+        ],
+        "more": false,
+        "next_key": "",
+        "next_key_bytes": ""
+    }
+}

@@ -1,0 +1,6 @@
+./crypto-farm
+./crypto-farm-api
+./item-oasis-api
+./nft-market-api
+./test
+**/node_modules

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open YouTube App</title>
+</head>
+<body>
+
+<button id="openYouTubeButton">유튜브 앱 열기</button>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('openYouTubeButton').addEventListener('click', function() {
+        openYouTubeApp();
+    });
+
+    function openYouTubeApp() {
+        // 유튜브 앱을 열기 위한 Deeplink
+        var youtubeDeeplink = 'https://www.youtube.com/';
+        
+        // Deeplink를 통해 유튜브 앱을 엽니다.
+        window.location.href = youtubeDeeplink;
+    }
+});
+</script>
+
+</body>
+</html>
